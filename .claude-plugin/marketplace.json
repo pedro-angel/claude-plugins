@@ -1,0 +1,24 @@
+{
+  "name": "pedro-angel",
+  "description": "Claude Code plugins maintained by pedro-angel, each pinned to an exact commit.",
+  "owner": {
+    "name": "pedro-angel",
+    "url": "https://github.com/pedro-angel"
+  },
+  "plugins": [
+    {
+      "name": "claude-agent-methodology",
+      "description": "Engineering methodology for Claude Code agents — the skills tier.",
+      "version": "0.2.0",
+      "author": {
+        "name": "pedro-angel"
+      },
+      "source": {
+        "source": "github",
+        "repo": "pedro-angel/claude-agent-methodology",
+        "ref": "v0.2.0",
+        "sha": "f11a2ce98cabd696970663a6b832b97aac4748af"
+      }
+    }
+  ]
+}
