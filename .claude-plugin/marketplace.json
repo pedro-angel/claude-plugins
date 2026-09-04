@@ -9,15 +9,15 @@
     {
       "name": "claude-agent-methodology",
       "description": "Engineering methodology for Claude Code agents — the skills tier.",
-      "version": "0.2.0",
+      "version": "0.3.1",
       "author": {
         "name": "pedro-angel"
       },
       "source": {
         "source": "github",
         "repo": "pedro-angel/claude-agent-methodology",
-        "ref": "v0.2.0",
-        "sha": "f11a2ce98cabd696970663a6b832b97aac4748af"
+        "ref": "v0.3.1",
+        "sha": "0d31dd72b54103dd0c0013b1d5a8827fbaa31108"
       }
     }
   ]

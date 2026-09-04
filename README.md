@@ -28,7 +28,7 @@ it without a separate prompt:
 
 | Plugin | Source | Pin |
 | :--- | :--- | :--- |
-| `claude-agent-methodology` | [pedro-angel/claude-agent-methodology](https://github.com/pedro-angel/claude-agent-methodology) | `v0.2.0` → `f11a2ce` |
+| `claude-agent-methodology` | [pedro-angel/claude-agent-methodology](https://github.com/pedro-angel/claude-agent-methodology) | `v0.3.1` → `0d31dd7` |
 
 ## How the pin works
 
